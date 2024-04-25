@@ -1,11 +1,12 @@
 import React from 'react'
 import './App.css'
+import Todo from './components/Todo'
 
 const App = () => {
 
   return (
     <>
-      <h1>heyy google</h1> 
+      <Todo/>
     </>
   )
 }
